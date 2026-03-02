@@ -48,6 +48,14 @@ static const int bitrateTable[] = {
     100000,
     120000,
     150000,
+    180000,
+    190000,
+    195000,
+    200000,
+    220000,
+    250000,
+    280000,
+    300000,
 };
 
 const int RESOLUTION_TABLE_SIZE = 7;
